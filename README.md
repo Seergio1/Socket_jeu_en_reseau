@@ -1,5 +1,8 @@
 # Socket_jeu_en_reseau
 Tic Tac toe en réseau
+
+Les codes sont dans la branche master
+
 Lancer l'application avec play.bat
   - Le premier utilisateur a entré l'adresse IP et e port sera le Serveur
   - Le deuxième sera donc le Client
