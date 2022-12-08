@@ -1,4 +1,10 @@
 # Socket_jeu_en_reseau
+ETU001811
+
+W - 63
+
+RAJAOHARINIAINA Sergio
+
 Tic Tac toe en réseau
 
 Les codes sont dans la branche master
