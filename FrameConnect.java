@@ -39,8 +39,11 @@ public class FrameConnect extends JFrame{
 		ipPort[1] = new JTextField("  Entrer un Port");
 
 		ecouteurC = new EcouteurConnect(this);
+
 		for (int i = 0;i<ipPort.length ;i++ ) {
 			pane.add(ipPort[i]);
+			ipPort[i].setCaretPosition(ipPort[i].getText().length());
+			ipPort[i].setCaretColor(Color.white);
 			ipPort[i].setForeground(Color.white);
 			ipPort[i].setFont(new Font("Verdana", Font.BOLD, 20));
 			ipPort[i].setOpaque(false);
