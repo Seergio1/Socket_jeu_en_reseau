@@ -4,7 +4,7 @@ Tic Tac toe en réseau
 Les codes sont dans la branche master
 
 Lancer l'application avec play.bat
-  - Le premier utilisateur a entré l'adresse IP et e port sera le Serveur
+  - Le premier utilisateur qui entre l'adresse IP et le port sera le Serveur
   - Le deuxième sera donc le Client
 
 Fonctionnement : 
