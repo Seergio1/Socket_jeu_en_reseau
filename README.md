@@ -1,7 +1,11 @@
 # Socket_jeu_en_reseau
-Tic Tac toe en réseau
+ETU001811
 
-Les codes sont dans la branche master
+W - 63
+
+RAJAOHARINIAINA Sergio
+
+Tic Tac toe en réseau
 
 Lancer l'application avec play.bat
   - Le premier utilisateur qui entre l'adresse IP et le port sera le Serveur
