@@ -10,6 +10,8 @@ Tic Tac toe en réseau
 Lancer l'application avec play.bat
   - Le premier utilisateur qui entre l'adresse IP et le port sera le Serveur
   - Le deuxième sera donc le Client
+  - Le port a utilisé est au choix mais doit être libre.
+  - Si on tape localhost sur le champ adresse ip , on va choisir le port local de l'utilisateur qui sera le ServeurSocket
 
 Fonctionnement : 
  
