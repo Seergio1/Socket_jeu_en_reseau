@@ -242,7 +242,7 @@ public class  TicTacToe implements Runnable{
 			dis = new DataInputStream(socket.getInputStream());
 			accepted = true;
 		} catch (IOException e) {
-			System.out.println("Ne peut pas se connecter a cette adresse: " + ip + ":" + port + " | Lancer un serveur");
+			System.out.println("Lancement d' un serveur");
 			return false;
 		}
 		System.out.println("Conncter avec succes avec le serveur.");
